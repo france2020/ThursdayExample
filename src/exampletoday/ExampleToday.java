@@ -19,6 +19,7 @@ public class ExampleToday {
         
         
         System.out.println("testing");
+        System.out.println("second testing");
     }
     
 }
